@@ -6,3 +6,6 @@ Neste projeto, eu e minha equipe realizamos um estudo comparativo entre três al
 
 ## Taxa de Vitória por algoritmo
 <img width="615" height="66" alt="Taxa de Vitória por algoritmos" src="https://github.com/user-attachments/assets/36adafc6-6a2d-4e75-96e1-e6f7f984f358" />
+
+## Relatório do seminário
+[Relatório](https://docs.google.com/document/d/1fSF3aqih4hOP5eXjQNstXJgptZ9lh394ci5iJrqn8aw/edit?usp=sharing)
